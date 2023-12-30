@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+.container{
+    margin: 0;
+    background-color: beige;
+}
+
+@media (max-width: 1000px){
+    .container{
+        width:20px
+    }
+}
